@@ -12,6 +12,7 @@ We have worked really hard to make this test series possible. Also, a considerab
 - Paytm(8349511332),
 - Tez(8349511332) or
 - UPI(ayusshhaagrawal@okhdfcbank).
+Last date for registration is Aug 15, 2018.
 
 In case you face any difficulty with payment processing or If you want to know more about the test series, we welcome you to contact us at:
 - rishabhvaishwamitre@gmail.com
