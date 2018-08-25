@@ -13,7 +13,7 @@ TnP Online Test Series has two varieties:
 - Paytm(8349511332),
 - Tez(8349511332 or 7723838123) or
 - UPI(ayusshhaagrawal@okhdfcbank).
-Last date for registration is Aug 16, 2018.
+Last date for registration is Aug 28, 2018.
 
 In case you face any difficulty with payment processing or If you want to know more about the test series, we welcome you to contact us at:
 - rishabhvaishwamitre@gmail.com
